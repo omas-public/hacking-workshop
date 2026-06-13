@@ -68,4 +68,3 @@ ParrotOSとは、セキュリティやペネトレーションテスト、デジ
 どうでしたか次はハッカーのコンテスト CTFに挑戦します
 
 ### [Simple Capture The Flag](https://tsaitoh.net/~t-saitoh/ctf/)
-
